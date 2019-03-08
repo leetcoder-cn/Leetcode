@@ -7,3 +7,4 @@
 | # | Title | Solution | Difficulty |
 | ---- | ----- | -------- | ---------- |
 | 2 | Add Two Numbers | [Python](./AddTwoNumbers/python/README.md)  |  Medium  |
+| 42 | First Missing Positive | [Kotlin](./FirstMissingPositive/kotlin/README.md)  |  Hard  |
