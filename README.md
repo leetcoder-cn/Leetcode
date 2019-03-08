@@ -3,8 +3,6 @@
 
 ![](https://img.shields.io/badge/license-Apache%202-blue.svg) ![](https://img.shields.io/badge/leetcoder--cn-published-blue.svg)
 
-========
-
 
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
