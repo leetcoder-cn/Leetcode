@@ -5,7 +5,42 @@
 
 需要注意的边界情况：有两个元素并且倒序时，搜索目标为后一个元素。
 
+**解法**
+
 Runtime Result
 --------
 Runtime: 8 ms, faster than 99.52% of C++ online submissions for Search in Rotated Sorted Array.
 Memory Usage: 9.9 MB, less than 25.89% of C++ online submissions for Search in Rotated Sorted Array.
+
+```c++
+class Solution {
+public:
+    int search(vector<int>& nums, int target) {
+        int i = 0, j = nums.size() - 1;
+        while(i <= j)
+        {
+            int mid = (i + j) / 2;
+            if(nums[mid] == target){
+                return mid;
+            }else if(nums[i] <= nums[mid])
+            {
+                if(nums[i] <= target && target < nums[mid])
+                {
+                    j = mid - 1;
+                }else{
+                    i = mid + 1;
+                }
+            }else 
+            {
+                if(nums[mid] < target && target <= nums[j])
+                {
+                    i = mid + 1;
+                }else{
+                    j = mid - 1;
+                }
+            }
+        }
+        return -1;
+    }
+};
+```
