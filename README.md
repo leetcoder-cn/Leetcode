@@ -6,6 +6,6 @@
 
 | # | Title | Solution | Difficulty |
 | ---- | ----- | -------- | ---------- |
-| 2 | [Add Two Numbers](./AddTowNumbers/) | [Python](./AddTwoNumbers/python/README.md)  |  Medium  |
+| 2 | [Add Two Numbers](./AddTwoNumbers/) | [Python](./AddTwoNumbers/python/README.md)  |  Medium  |
 | 33 | [Search in Rotated Sorted Array](./SearchinRotatedSortedArray/) | [Cpp](./SearchinRotatedSortedArray/cpp/README.md) |  Medium  |
 | 41 | [First Missing Positive](./FirstMissingPositive/) | [Kotlin](./FirstMissingPositive/kotlin/README.md)  |  Hard  |
