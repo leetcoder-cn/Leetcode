@@ -13,3 +13,4 @@
 | 41 | [First Missing Positive](./FirstMissingPositive/) | [Kotlin](./FirstMissingPositive/kotlin/README.md)  |  Hard  |
 | 128 | [Longest Consecutive Sequence](./LongestConsecutiveSequence) | [Python](./LongestConsecutiveSequence/python/README.md) | Hard |
 | 215 | [Kth Largest Element in an Array](./KthLargestElementinanArray) | [Python](./KthLargestElementinanArray/python/README.md) | Medium |
+| 380 | [Insert Delete GetRandom O(1)](./InsertDeleteGetRandomO(1)) | [Kotlin](./InsertDeleteGetRandomO(1)/kotlin/README.md) | Medium |
