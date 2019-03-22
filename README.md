@@ -6,6 +6,7 @@
 
 | # | Title | Solution | Difficulty |
 | ---- | ----- | -------- | ---------- |
+| 1 | [Two Sum](./TwoSum/) | [Python](./TwoSum/python/README.md),[Rust](./TwoSum/rust/README.md) | Easy |
 | 2 | [Add Two Numbers](./AddTwoNumbers/) | [Python](./AddTwoNumbers/python/README.md)  |  Medium  |
 | 6 | [ZigZag Conversion](./ZigZagConversion/) | [Cpp](./ZigZagConversion/cpp/README.md) | Medium |
 | 11 | [Container With Most Water](./ContainerWithMostWater/) | [Cpp](./ContainerWithMostWater/cpp/README.md) | Medium | 
