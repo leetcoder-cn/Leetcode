@@ -15,6 +15,7 @@
 | 22 | [Generate Parentheses](./GenerateParentheses/) | [Cpp](./GenerateParentheses/cpp/README.md) | Medium |
 | 27 | [Remove Elements](./Remove Element/) | [Rust](./RemoveElement/rust/README.md) | Easy |
 | 33 | [Search in Rotated Sorted Array](./SearchinRotatedSortedArray/) | [Cpp](./SearchinRotatedSortedArray/cpp/README.md),[Python](./SearchinRotatedSortedArray/python/README.md) |  Medium  |
+| 36 | [Valid Sudoku](./ValidSudoku/) | [Cpp](./ValidSudoku/cpp/README.md) | Medium |
 | 41 | [First Missing Positive](./FirstMissingPositive/) | [Kotlin](./FirstMissingPositive/kotlin/README.md)  |  Hard  |
 | 56 | [MergeIntervals](./MergeIntervals/) | [Python](./MergeIntervals/python/README.md) | Medium |
 | 128 | [Longest Consecutive Sequence](./LongestConsecutiveSequence) | [Python](./LongestConsecutiveSequence/python/README.md) | Hard |
