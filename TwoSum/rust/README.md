@@ -19,9 +19,27 @@ impl Solution {
             }
             index_hash_map.insert(value,key);
             key += 1;
-            
         }
         return vec![];
+    }
+}
+```
+
+```rust
+use std::collections::HashMap;
+impl Solution {
+    pub fn two_sum(nums: Vec<i32>, target: i32) -> Vec<i32> {
+
+        let mut sum_dict = HashMap::new();
+
+        for (i,num) in nums.iter().enumerate() {
+            let ref key = target - num;
+            if sum_dict.contains_key(key) {
+                return vec![sum_dict[key],i as i32];
+            }
+            sum_dict.insert(num,i as i32);
+        }
+        return vec![]
     }
 }
 ```

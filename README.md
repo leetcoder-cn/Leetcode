@@ -9,9 +9,11 @@
 | 1 | [Two Sum](./TwoSum/) | [Python](./TwoSum/python/README.md),[Rust](./TwoSum/rust/README.md) | Easy |
 | 2 | [Add Two Numbers](./AddTwoNumbers/) | [Python](./AddTwoNumbers/python/README.md)  |  Medium  |
 | 6 | [ZigZag Conversion](./ZigZagConversion/) | [Cpp](./ZigZagConversion/cpp/README.md) | Medium |
+| 9 | [Palindrome Number](./PalindromeNumber/) | [Python](./ZigZagConversion/python/README.md),[Rust](./ZigZagConversion/rust/README.md) | Easy |
 | 11 | [Container With Most Water](./ContainerWithMostWater/) | [Cpp](./ContainerWithMostWater/cpp/README.md) | Medium | 
-| 20 | [Valid Parentheses](./ValidParentheses/) | [Cpp](./ValidParentheses/cpp/README.md) | Easy |
+| 20 | [Valid Parentheses](./ValidParentheses/) | [Cpp](./ValidParentheses/cpp/README.md),| Easy |
 | 22 | [Generate Parentheses](./GenerateParentheses/) | [Cpp](./GenerateParentheses/cpp/README.md) | Medium |
+| 27 | [Remove Elements](./Remove Element/) | [Rust](./RemoveElement/rust/README.md) | Easy |
 | 33 | [Search in Rotated Sorted Array](./SearchinRotatedSortedArray/) | [Cpp](./SearchinRotatedSortedArray/cpp/README.md),[Python](./SearchinRotatedSortedArray/python/README.md) |  Medium  |
 | 41 | [First Missing Positive](./FirstMissingPositive/) | [Kotlin](./FirstMissingPositive/kotlin/README.md)  |  Hard  |
 | 56 | [MergeIntervals](./MergeIntervals/) | [Python](./MergeIntervals/python/README.md) | Medium |
