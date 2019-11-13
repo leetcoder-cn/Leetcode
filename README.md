@@ -13,7 +13,7 @@
 | 11 | [Container With Most Water](./ContainerWithMostWater/) | [Cpp](./ContainerWithMostWater/cpp/README.md) | Medium | 
 | 20 | [Valid Parentheses](./ValidParentheses/) | [Cpp](./ValidParentheses/cpp/README.md),| Easy |
 | 22 | [Generate Parentheses](./GenerateParentheses/) | [Cpp](./GenerateParentheses/cpp/README.md) | Medium |
-| 27 | [Remove Elements](./Remove Element/) | [Rust](./RemoveElement/rust/README.md) | Easy |
+| 27 | [Remove Elements]|(./RemoveElement/) | [Rust](./RemoveElement/rust/README.md) | Easy |
 | 33 | [Search in Rotated Sorted Array](./SearchinRotatedSortedArray/) | [Cpp](./SearchinRotatedSortedArray/cpp/README.md),[Python](./SearchinRotatedSortedArray/python/README.md) |  Medium  |
 | 36 | [Valid Sudoku](./ValidSudoku/) | [Cpp](./ValidSudoku/cpp/README.md) | Medium |
 | 41 | [First Missing Positive](./FirstMissingPositive/) | [Kotlin](./FirstMissingPositive/kotlin/README.md)  |  Hard  |
